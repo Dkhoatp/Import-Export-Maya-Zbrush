@@ -1,0 +1,11 @@
+[VarDef, path, "C:\Users\Dell\OneDrive\Documents\maya\projects\default\scenes\TempObject.obj"]
+
+[IButton, "Import","Imports object",
+	[FileNameSetNext, path]
+	[IPress,Tool:Import]
+]
+
+[IButton, "Export","Exports object",
+	[FileNameSetNext, path]
+	[IPress,Tool:Export]
+]
