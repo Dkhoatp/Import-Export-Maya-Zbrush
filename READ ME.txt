@@ -1,2 +1,2 @@
-2 file Export.py, Import.py là của Maya
+3 file Export.py, Import.py, updateImport.py là của Maya
 file ImportExport.txt là của Zbrush
