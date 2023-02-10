@@ -1,2 +1,3 @@
 3 file Export.py, Import.py, updateImport.py là của Maya
 file ImportExport.txt là của Zbrush
+nhớ đổi lại path ("C:\Users\...\...\TempObject.obj") thành chỗ mới tạo
