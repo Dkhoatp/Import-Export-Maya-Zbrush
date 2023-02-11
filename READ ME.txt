@@ -1,4 +1,5 @@
 Maya:
 Mở Script Editor > coppy paste code từ file mayaIE.py
+Tool nằm trên menu :O
 Zbrush:
 Trên menu chọn Zscript > Load > chọn file zbrushIE.txt > kéo cái thanh ở dưới lên là có 2 nút
