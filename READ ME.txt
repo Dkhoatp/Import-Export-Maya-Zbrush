@@ -1,10 +1,4 @@
-3 file Export.py, Import.py, updateImport.py là của Maya
-file ImportExport.txt là của Zbrush
-
-NOTE:nhớ đổi lại path ("C:\Users\...\...\TempObject.obj") thành chỗ mới tạo
-
-Export.py: export object từ Maya
-Import.py: import object từ file TempObject.obj
-updateImport.py: click chọn object đang làm, sử dụng chức năng này sẽ cập nhật Object đang làm nếu cùng có cùng các Vertex ID
-
-ImportExport.txt: tạo 2 nút chức năng Import/Export cho Zbrush.
+Maya:
+Mở Script Editor > coppy paste code từ file mayaIE.py
+Zbrush:
+Trên menu chọn Zscript > Load > chọn file zbrushIE.txt > kéo cái thanh ở dưới lên là có 2 nút

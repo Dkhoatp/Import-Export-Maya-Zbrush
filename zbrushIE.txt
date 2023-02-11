@@ -1,4 +1,4 @@
-[VarDef, path, "C:\Users\Dell\OneDrive\Documents\maya\projects\default\scenes\TempObject.obj"]
+[VarDef, path, "C:/tempObject/TempObject.obj"]
 
 [IButton, "Import","Imports object",
 	[FileNameSetNext, path]
