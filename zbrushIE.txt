@@ -1,11 +1,13 @@
 [VarDef, path, "C:/tempObject/TempObject.obj"]
 
-[IButton, "Import","Imports object",
+[IPalette,"Aozora"]
+
+[IButton, "Aozora: Import","Imports object",
 	[FileNameSetNext, path]
 	[IPress,Tool:Import]
 ]
 
-[IButton, "Export","Exports object",
+[IButton, "Aozora: Export","Exports object",
 	[FileNameSetNext, path]
 	[IPress,Tool:Export]
 ]
