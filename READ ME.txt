@@ -1,17 +1,16 @@
 Maya:
 kiểu plugin:
-coppy mayaPluginType.py vào thư mục plugin của maya: C:/../Autodesk/Maya20xx/bin/plug-ins
-Windows > Settings/Preferences > Plug-in Manager > brower file mayaPluginType.py > chọn auto load > close
+coppy file mayaPluginType.py vào thư mục plugin của maya: C:/../Autodesk/Maya20xx/bin/plug-ins
+Trong maya: Windows > Settings/Preferences > Plug-in Manager > brower file mayaPluginType.py > chọn auto load > close
 
 mỗi khi cần sử dụng thì mở script editor dán code:
-
 import maya.cmds
 cmds.addIEButton()
 
 kiểu khổ sở:
 mở Script Editor > coppy paste code từ file mayaIE.py
 
-Tool của cẳ 2 cách đều nằm trên menu.
+->Tool của cẳ 2 cách đều nằm trên menu<-
 
 Zbrush:
 Trên menu chọn Zscript > Load > chọn file zbrushIE.txt > chọn Aozora trên menu là có 2 nút
